@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wgqa
-- 👀 I’m interested in money
+- 👀 I’m interested in ai
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on practice
 - 📫 How to reach me ...
